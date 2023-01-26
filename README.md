@@ -2,7 +2,7 @@
 
 _I am currently a participant in the boot camps from new fish to web developer._
 
-##My skills
+## My skills
 
 - HTML
 - CSS
