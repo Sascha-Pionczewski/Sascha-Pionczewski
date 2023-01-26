@@ -8,5 +8,5 @@ _I am currently a participant in the boot camps from new fish to web developer._
 - CSS
 - JavaScript
 
-![link](https://cdn.pixabay.com/photo/2015/03/14/19/45/suit-673697_1280.jpg)
+![link](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)
 
