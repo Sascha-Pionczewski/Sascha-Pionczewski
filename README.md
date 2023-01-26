@@ -1,7 +1,6 @@
 # Hi my Name is Sascha 😄.
 
-> _I am currently a participant in the boot camp from neue Fische to web developer._📲 💻
-> _I would like to start a career as a web developer and learn a lot and solve exciting problems._
+> _I am currently a participant in the boot camp from neue Fische to web developer.📲 💻 I would like to start a career as a web developer and learn a lot and solve exciting problems._
 
 ## My skills
 
