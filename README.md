@@ -1,12 +1,17 @@
 # Hi my Name is Sascha 😄.
 
-> _I am currently a participant in the boot camp from neue Fische to web developer.📲 💻 I would like to start a career as a web developer and learn a lot and solve exciting problems._
+I am currently a participant in the boot camp from neue Fische to web developer.📲 💻 I would like to start a career as a web developer and learn a lot and solve exciting problems.
+
+> _Code is like humor. When you have to explain it, it’s bad.
+Cory House (Software Developer)_
 
 ## My skills
 
 - HTML
 - CSS
 - JavaScript
+
+comming soon:
 - React
 - Node.js
 - MongoDB
