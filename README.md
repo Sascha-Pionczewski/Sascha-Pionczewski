@@ -10,6 +10,7 @@ Cory House (Software Developer)_
 - HTML
 - CSS
 - JavaScript
+- Git & Github
 
 comming soon:
 - React
