@@ -11,8 +11,6 @@ Cory House (Software Developer)_
 - CSS
 - JavaScript
 - Git & Github
-
-comming soon:
 - React
 - Node.js
 - MongoDB
