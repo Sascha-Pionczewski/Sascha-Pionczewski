@@ -15,6 +15,11 @@ Cory House (Software Developer)_ 🧐
 - Next.js
 - Node.js
 - MongoDB
+- React Testing Library
+- Jest
+- Styled Components
+- Mongoose
+- APIs
 
 ## Project
 
